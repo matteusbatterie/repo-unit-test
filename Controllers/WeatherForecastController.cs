@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace repo_unit_test.Controllers;
+namespace RepoUnitTestPoc.Controllers;
 
 [ApiController]
 [Route("[controller]")]

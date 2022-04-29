@@ -1,4 +1,4 @@
-namespace repo_unit_test;
+namespace RepoUnitTestPoc;
 
 public class WeatherForecast
 {
